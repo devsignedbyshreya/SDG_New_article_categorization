@@ -29,7 +29,7 @@
   </p>
   <p>
     By training machine learning models on BBC news data and mapping the original categories 
-    (like <code>tech</code>, <code>politics</code>, etc.) to relevant SDGs, this project builds a foundation for automated, goal-oriented content classification.
+  to relevant SDGs, this project builds a foundation for automated, goal-oriented content classification.
   </p>
 
   <h2>Dataset</h2>
